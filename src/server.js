@@ -19,3 +19,5 @@ client.connect()
 .catch(()=>{
        console.log('Unable to Connected to db')
    })
+
+   //Gitignore works !
